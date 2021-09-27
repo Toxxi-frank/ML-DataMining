@@ -13,3 +13,5 @@ jupyterlab,
 pyvi,
 beautifulsoup4==4.9.3,
 PyYAML,
+ 
+## Từ học phần từ trường ĐHBKHN
